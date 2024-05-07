@@ -4,4 +4,5 @@ import SearchModal from "./search-modal/SearchModal";
 import Topbar from "./topnav/Topbar";
 import HeroSection from "./herosection/HeroSection";
 import Features from "./features/Features";
-export { BackToTop, Banner, SearchModal, Topbar, HeroSection, Features };
+import FruiteShop from "./fruite-shop/FruiteShop";
+export { BackToTop, Banner, SearchModal, Topbar, HeroSection, Features, FruiteShop };
