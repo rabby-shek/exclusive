@@ -2,3 +2,8 @@
 
 - Search functionality
 - Filer functionality
+## Tech Stack
+
+- ReactJs
+- Redux
+- Bootstrap
